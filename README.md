@@ -1,15 +1,15 @@
-Project 2
+Project 
 ==============================
 
-Classification of Shakespeare Players.
+Clustering of movie data
 
 Project Organization
 ------------
 
     ├── README.md          <- The top-level README for developers using this project.
-    ├── data               <- contains shakespeare csv with all plays
+    ├── data               <- contains movie csv
     │
-    ├── notebooks          <- contains notebook "To be or not to be"
+    ├── notebooks          <- contains the project notebook
     │                        
     │                         
 
