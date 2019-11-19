@@ -1,7 +1,7 @@
 Project 3
-==============================
 
 Movie Recommendation Engine. The purpose of this is to generate recommendations for movies, similar to the feature Netflix, YouTube, and other SVoD services have.
+=======
 
 Project Organization
 ------------
